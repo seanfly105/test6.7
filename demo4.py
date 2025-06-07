@@ -34,7 +34,7 @@ s	字符串
 
 num = 10
 print('num:', num)
-print('十进制:%d ' % num) # 10
+print('十进制:%d ' % 100) # 10
 print('八进制:%o ' % num) # 12
 print('二进制：', bin(num)) # 0b1010
 
